@@ -46,7 +46,7 @@
             this.scoreLabel.AutoSize = true;
             this.scoreLabel.Font = new System.Drawing.Font("MV Boli", 22.2F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.scoreLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.scoreLabel.Location = new System.Drawing.Point(25, 74);
+            this.scoreLabel.Location = new System.Drawing.Point(12, 633);
             this.scoreLabel.Name = "scoreLabel";
             this.scoreLabel.Size = new System.Drawing.Size(180, 49);
             this.scoreLabel.TabIndex = 0;
@@ -105,10 +105,10 @@
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ClientSize = new System.Drawing.Size(789, 788);
             this.Controls.Add(this.scoreLabel);
+            this.Controls.Add(this.pipeUp);
             this.Controls.Add(this.graund);
             this.Controls.Add(this.pipeDown);
             this.Controls.Add(this.bird);
-            this.Controls.Add(this.pipeUp);
             this.Name = "Form1";
             this.Text = "Floppy bird game";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.gameKeyIsDown);

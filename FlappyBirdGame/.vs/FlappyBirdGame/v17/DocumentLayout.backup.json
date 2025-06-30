@@ -3,22 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|c:\\users\\ivana\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\my projects\\flappybirdgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|c:\\users\\ivana\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\my projects\\flappybirdgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FlappyBirdGame||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|c:\\users\\ivana\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\my projects\\flappybirdgame\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,18 +26,19 @@
       "RelativeMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|c:\\users\\ivana\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\my projects\\flappybirdgame\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB3D1551-1A2E-43DF-9518-7AFFC7A5545B}|FlappyBirdGame.csproj|c:\\users\\ivana\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\my projects\\flappybirdgame\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,7 +48,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -75,25 +72,61 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAACETAAAAAAAAAAAtwDQTAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-06-29T20:45:38.981Z",
+              "WhenOpened": "2025-06-29T20:45:38.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:55:50.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:56:12.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAswH4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:50:12.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
               "ToolTip": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Properties\\AssemblyInfo.cs",
               "RelativeToolTip": "Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T20:18:10.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T20:18:10.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Properties\\Resources.resx",
@@ -105,15 +138,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "FlappyBirdGame",
               "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\FlappyBirdGame.csproj",
               "RelativeDocumentMoniker": "FlappyBirdGame.csproj",
               "ToolTip": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\FlappyBirdGame.csproj",
               "RelativeToolTip": "FlappyBirdGame.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-29T19:59:12.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T19:59:12.552Z"
             },
             {
               "$type": "Document",
@@ -143,53 +175,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T18:56:12.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T18:55:50.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAswH4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T18:50:12.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Form1.resx",
               "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Form1.resx",
               "RelativeDocumentMoniker": "Form1.resx",
               "ToolTip": "C:\\Users\\ivana\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\My projects\\FlappyBirdGame\\Form1.resx",
               "RelativeToolTip": "Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-29T18:49:41.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T18:49:41.336Z"
             },
             {
               "$type": "Bookmark",
