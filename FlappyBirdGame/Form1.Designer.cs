@@ -109,6 +109,10 @@
             this.Controls.Add(this.graund);
             this.Controls.Add(this.pipeDown);
             this.Controls.Add(this.bird);
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(807, 835);
+            this.MinimizeBox = false;
+            this.MinimumSize = new System.Drawing.Size(807, 835);
             this.Name = "Form1";
             this.Text = "Floppy bird game";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.gameKeyIsDown);
