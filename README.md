@@ -1,2 +1,2 @@
-# FloppyBirdGame
+# FlappyBirdGame
 Simple Windows Forms game
